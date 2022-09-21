@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>八王子市内駅</name>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>八王子駅</name>
+      <description><![CDATA[latitude: 35.655389<br>longitude: 139.3394669]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.655389</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3394669</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3394669,35.655389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高尾山口駅</name>
+      <description><![CDATA[latitude: 35.63224825<br>longitude: 139.2699457715528]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.63224825</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.2699457715528</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.269945771553,35.63224825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高尾駅</name>
+      <description><![CDATA[latitude: 35.6423991<br>longitude: 139.2806011]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6423991</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.2806011</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.2806011,35.6423991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八王子みなみ野駅</name>
+      <description><![CDATA[latitude: 35.6306959<br>longitude: 139.3301619]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6306959</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3301619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3301619,35.6306959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北野駅</name>
+      <description><![CDATA[latitude: 35.6443991<br>longitude: 139.3523028]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6443991</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3523028</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3523028,35.6443991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高尾山駅</name>
+      <description><![CDATA[latitude: 35.6311458<br>longitude: 139.2581189]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6311458</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.2581189</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.2581189,35.6311458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>西八王子駅</name>
+      <description><![CDATA[latitude: 35.6569298<br>longitude: 139.3123444]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6569298</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3123444</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3123444,35.6569298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南大沢駅</name>
+      <description><![CDATA[latitude: 35.6138192<br>longitude: 139.3810638]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6138192</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3810638</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3810638,35.6138192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>小宮駅</name>
+      <description><![CDATA[latitude: 35.685518<br>longitude: 139.3666754]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.685518</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3666754</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3666754,35.685518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>片倉駅</name>
+      <description><![CDATA[latitude: 35.6398013<br>longitude: 139.3414342]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6398013</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3414342</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3414342,35.6398013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北八王子駅</name>
+      <description><![CDATA[latitude: 35.6693571<br>longitude: 139.3634112]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6693571</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3634112</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3634112,35.6693571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>京王堀之内駅</name>
+      <description><![CDATA[latitude: 35.62444<br>longitude: 139.4012799]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.62444</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.4012799</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.4012799,35.62444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>狭間駅</name>
+      <description><![CDATA[latitude: 35.6397463<br>longitude: 139.2931436]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6397463</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.2931436</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.2931436,35.6397463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大塚・帝京大学駅</name>
+      <description><![CDATA[latitude: 35.63695<br>longitude: 139.41629]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.63695</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.41629</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.41629,35.63695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>京王八王子駅</name>
+      <description><![CDATA[latitude: 35.6591592<br>longitude: 139.3425481]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6591592</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3425481</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3425481,35.6591592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>めじろ台駅</name>
+      <description><![CDATA[latitude: 35.6433956<br>longitude: 139.3070642]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6433956</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3070642</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3070642,35.6433956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山田駅</name>
+      <description><![CDATA[latitude: 35.644198<br>longitude: 139.321362]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.644198</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.321362</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.321362,35.644198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>京王片倉駅</name>
+      <description><![CDATA[latitude: 35.6443853<br>longitude: 139.3370288]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6443853</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3370288</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3370288,35.6443853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>清滝駅</name>
+      <description><![CDATA[latitude: 35.6311462<br>longitude: 139.2647119]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6311462</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.2647119</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.2647119,35.6311462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中央大学・明星大学駅</name>
+      <description><![CDATA[latitude: 35.64203<br>longitude: 139.40852]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.64203</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.40852</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.40852,35.64203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>長沼駅</name>
+      <description><![CDATA[latitude: 35.6428769<br>longitude: 139.3664706]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6428769</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.3664706</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.3664706,35.6428769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松が谷駅</name>
+      <description><![CDATA[latitude: 35.6318468<br>longitude: 139.4199365]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="latitude">
+          <value>35.6318468</value>
+        </Data>
+        <Data name="longitude">
+          <value>139.4199365</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          139.4199365,35.6318468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
